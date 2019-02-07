@@ -1,7 +1,7 @@
 #Chutes and Ladders
 #Zachary Page
 #1/28
-
+#name input enter breaks the game
 #imports
 ###############################################################################
 import random

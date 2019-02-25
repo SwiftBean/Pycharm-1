@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../High Card/.idea/High Card.iml" filepath="$PROJECT_DIR$/../High Card/.idea/High Card.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Object Oriented.iml" filepath="$PROJECT_DIR$/.idea/Object Oriented.iml" />
     </modules>
   </component>
